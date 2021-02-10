@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901527795502",
+    "project_id": "nativezap",
+    "storage_bucket": "nativezap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901527795502:android:db61640e477cb98080ecbf",
+        "android_client_info": {
+          "package_name": "com.example.nativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901527795502-susl790874a8aoq9i8m7ijltde5np1oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nativeapp",
+            "certificate_hash": "be5fea767afb8048e84ce5fee37f2d75e1966f5d"
+          }
+        },
+        {
+          "client_id": "901527795502-q15cf7d5js8ar30honkuvbmu2lth5m6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaW6TdC3W9ek_Abrzq3f9dXCNvUuB5CTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901527795502-q15cf7d5js8ar30honkuvbmu2lth5m6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
